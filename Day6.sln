@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nongeneric_ArrayList", "Non
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nongeneric_HashTable", "Nongeneric_HashTable\Nongeneric_HashTable.csproj", "{B7CB20FA-D3E6-488F-B42D-73A708E7DBD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nongeneric_SortedList", "Nongeneric_SortedList\Nongeneric_SortedList.csproj", "{D95C7247-E44D-471A-9337-8538BAB2F260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B7CB20FA-D3E6-488F-B42D-73A708E7DBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7CB20FA-D3E6-488F-B42D-73A708E7DBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7CB20FA-D3E6-488F-B42D-73A708E7DBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95C7247-E44D-471A-9337-8538BAB2F260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95C7247-E44D-471A-9337-8538BAB2F260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95C7247-E44D-471A-9337-8538BAB2F260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95C7247-E44D-471A-9337-8538BAB2F260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
