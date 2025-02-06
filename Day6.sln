@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nongeneric_HashTable", "Non
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nongeneric_SortedList", "Nongeneric_SortedList\Nongeneric_SortedList.csproj", "{D95C7247-E44D-471A-9337-8538BAB2F260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDemo_MethodandClass", "GenericDemo_MethodandClass\GenericDemo_MethodandClass.csproj", "{78D92D6C-AA58-40CB-A990-367B1EC9968D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericListDemo", "GenericListDemo\GenericListDemo.csproj", "{81FA1B0C-0C67-4D25-9704-078032804DC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{D95C7247-E44D-471A-9337-8538BAB2F260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D95C7247-E44D-471A-9337-8538BAB2F260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D95C7247-E44D-471A-9337-8538BAB2F260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D92D6C-AA58-40CB-A990-367B1EC9968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D92D6C-AA58-40CB-A990-367B1EC9968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D92D6C-AA58-40CB-A990-367B1EC9968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D92D6C-AA58-40CB-A990-367B1EC9968D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FA1B0C-0C67-4D25-9704-078032804DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FA1B0C-0C67-4D25-9704-078032804DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FA1B0C-0C67-4D25-9704-078032804DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FA1B0C-0C67-4D25-9704-078032804DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
